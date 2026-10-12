@@ -42,7 +42,7 @@ cd extended-clipboard
 The generated bundle will be placed at:
 
 ```text
-extended-clipboard/dist/Extended Clipboard.app
+dist/Extended Clipboard.app
 ```
 
 ## Install
